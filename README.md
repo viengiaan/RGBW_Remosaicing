@@ -18,7 +18,7 @@ Running on the terminal:
 - Test data path (e.g., "DATA/RGBW_Joint_Remosaic_and_Denoise/RGBW_validation_dataset_fullres/")
 - Weight path (e.g., "WEIGHTS/Proposed/")
 
-- Download MIPI-RGBW data set for training and testing from:
+- Download the MIPI-RGBW data set for training and testing from: https://1drv.ms/u/s!AoDikVPcVuNPvxs5PdON5JB0lF3V?e=uZVod0
   
 ### Usage
 Running the train code:
