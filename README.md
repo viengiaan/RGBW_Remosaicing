@@ -47,4 +47,4 @@ Please cite the following paper if you feel this repository is useful.
 See [MIT License](https://github.com/viengiaan/RGBW_Remosaicing/blob/main/LICENSE)
 
 ### Acknowledgement
-We followed the training code of [UNet-ResT](https://github.com/Joyies/ECCVW22-RGBW-Remosaic-Challenge) for the MIPI-2022 Challenge on RGBW Remosaicing.
+We followed the training code of [UNet-ResT](https://github.com/Joyies/ECCVW22-RGBW-Remosaic-Challenge).
