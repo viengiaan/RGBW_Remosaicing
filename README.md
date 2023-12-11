@@ -30,8 +30,7 @@ Running the test code:
     $ CUDA_VISIBLE_DEVICES="0" python Run_train.py
 ```
 ### Citation
-Please cite the following paper if you feel this repository useful.
-```
+Please cite the following paper if you feel this repository is useful.
 ```
 @ARTICLE{Access2023_AGVien,
   author={Vien, An Gia and Lee, Chul},
