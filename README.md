@@ -1,5 +1,5 @@
 # LKI_RGBW (IEEE Access 2023)
-An Gia Vien and Chul Lee
+**An Gia Vien** and Chul Lee
 
 Official PyTorch Code for **"Learned kernel-based interpolation for Efficient RGBW remosaicing"**
 
