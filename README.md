@@ -33,11 +33,11 @@ Please cite the following paper if you feel this repository is useful.
 @ARTICLE{Access2023_AGVien,
   author={Vien, An Gia and Lee, Chul},
   journal={IEEE Access}, 
-  title={Learned Kernel-based Interpolation for Efficient RGBW Remosaicing}, 
+  title={Learned Kernel-Based Interpolation for Efficient RGBW Remosaicing}, 
   year={2023},
-  volume={},
+  volume={11},
   number={},
-  pages={1-1},
+  pages={139860-139871},
   doi={10.1109/ACCESS.2023.3341041}
 }
 ```
