@@ -130,7 +130,7 @@ from NETWORK.Proposed import LKI_RGBW
 #################################################### MIPI DATASET
 num_of_images = 12
 
-image_list = sorted(glob.glob("DATARGBW_Joint_Remosaic_and_Denoise/RGBW_validation_dataset_fullres/input/0dB" + "/*.*"))
+image_list = sorted(glob.glob("DATA/RGBW_Joint_Remosaic_and_Denoise/RGBW_validation_dataset_fullres/input/0dB" + "/*.*"))
 
 # image_list = sorted(glob.glob("/media/vgan/49D4672C2AF1B750/IMPORTANT_FOLDERS/RGBW_Remosaic/RGBW_Joint_Remosaic_and_Denoise/RGBW_validation_dataset_fullres/input/24dB" + "/*.*"))
 
