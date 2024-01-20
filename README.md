@@ -19,11 +19,11 @@ Running on the terminal:
 - Download the MIPI-RGBW data set for training and testing from: https://1drv.ms/u/s!AoDikVPcVuNPvxs5PdON5JB0lF3V?e=uZVod0
   
 ### Usage
-Running the train code:
+Running the test code:
 ```
     $ CUDA_VISIBLE_DEVICES="0" python Run_test.py
 ```
-Running the test code:
+Running the train code:
 ```
     $ CUDA_VISIBLE_DEVICES="0" python Run_train.py
 ```
